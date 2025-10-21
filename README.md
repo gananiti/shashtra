@@ -1,4 +1,4 @@
-# गणनीति (Gananīti)
+# गणनीति शास्त्र (Gananīti Śāstra)
 
 ## 🌍 1.  What Gananīti Is
 
@@ -14,7 +14,7 @@ Gananīti tries to describe that pattern once, clearly enough that both humans a
 
 | Repository              | Meaning                                                        | What it contains                                                                                                                      |
 | ----------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **`gananiti/gananiti`** | The *canonical texts* — the logic, formulas, and instructions. | All **mantras** (rules, definitions, and small executable truths) and **yantras** (tools that help apply them).                       |
+| **`gananiti/shashtra`** | The *canonical texts* — the logic, formulas, and instructions. | All **mantras** (rules, definitions, and small executable truths) and **yantras** (tools that help apply them).                       |
 | **`gananiti/katha`**    | The *stories and commentaries*.                                | Explanations, parables, essays—how the ideas feel in life.                                                                            |
 | **`gananiti/bhumi`**            | The *field of action*.                                         | The living software that lets anyone practice Gananīti by forming Gaṇas, giving and receiving Mats, and reflecting through Matgaḍāna. |
 
