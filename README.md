@@ -14,9 +14,9 @@ Gananīti tries to describe that pattern once, clearly enough that both humans a
 
 | Repository              | Meaning                                                        | What it contains                                                                                                                      |
 | ----------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **`gananiti/shashtra`** | The *canonical texts* — the logic, formulas, and instructions. | All **mantras** (rules, definitions, and small executable truths) and **yantras** (tools that help apply them).                       |
-| **`gananiti/katha`**    | The *stories and commentaries*.                                | Explanations, parables, essays—how the ideas feel in life.                                                                            |
-| **`gananiti/bhumi`**            | The *field of action*.                                         | The living software that lets anyone practice Gananīti by forming Gaṇas, giving and receiving Mats, and reflecting through Matgaḍāna. |
+| [`gananiti/shashtra`](https://github.com/gananiti/shashtra) | The *canonical texts of gananit* — the logic, formulas, and instructions. | All **mantras** (rules, definitions, and small executable truths) and **yantras** (tools that help apply them) related to gananit.                       |
+| [`gananiti/katha`](https://github.com/gananiti/katha) | The *stories and commentaries*.                                | Explanations, parables, essays—how the ideas feel in life.                                                                            |
+| [`gananiti/bhumi`](https://github.com/gananiti/bhumi) | The *field of action*.                                         | The living software that lets anyone practice Gananīti by forming Gaṇas, giving and receiving Mats, and reflecting through Matgaḍāna. |
 
 Together they are scripture, commentary, and ritual.
 
